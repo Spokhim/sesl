@@ -1,0 +1,17 @@
+numpy==1.26.4
+scipy==1.14.1
+matplotlib==3.8.4
+mne==1.8.0
+scikit-learn==1.6.1
+tslearn==0.6.3
+nibabel==4.0.2
+lapy==1.0.1
+brainspace==0.1.10
+pandas==1.4.3
+mat73==0.59
+plotly==5.14.0
+jupyter==1.1.1
+ipympl==0.9.7
+vtk==9.2.2
+tvb-framework==2.9.1
+tvb-library==2.9.1
