@@ -1,9 +1,17 @@
 # sesl - Structural Eigenmode Source Localisation
 
 A Python package for source localisation using the structural eigenmode approach.  
-Please refer to the paper and cite if used: [Structural Eigenmode Source Localisation](https://arxiv.org/abs/XXXXX)
+
+## Reference
+
+If you use this code in your research, please cite:
+
+>Siu, P. H., Karoly, P. J., Mansour, S. L., Soto-Breceda, A., Kuhlmann, L., Cook, M. J., & Grayden, D. B.
+>“Structural Eigenmodes of the Brain to Improve the Source Localization of EEG: Application to Epileptiform Activity.” 
+>Advanced Science (2026): e16802. https://doi.org/10.1002/advs.202516802
 
 ![Python](https://img.shields.io/badge/python-3.10-blue.svg)
+[![DOI](https://img.shields.io/badge/DOI-10.1002/advs.202516802-blue)](https://doi.org/10.1002/advs.202516802)
 
 ---
 
