@@ -6,7 +6,7 @@ A Python package for source localisation using the structural eigenmode approach
 
 If you use this code in your research, please cite:
 
->Siu, P. H., Karoly, P. J., Mansour, S. L., Soto-Breceda, A., Kuhlmann, L., Cook, M. J., & Grayden, D. B.
+>Siu, P. H., Karoly, P. J., Mansour L., S., Soto-Breceda, A., Kuhlmann, L., Cook, M. J., & Grayden, D. B.
 >“Structural Eigenmodes of the Brain to Improve the Source Localization of EEG: Application to Epileptiform Activity.” 
 >Advanced Science (2026): e16802. https://doi.org/10.1002/advs.202516802
 
